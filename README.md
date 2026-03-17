@@ -60,5 +60,5 @@ network-traffic-analyzer/
 For authorized forensic and educational use only. Do not capture traffic on networks you do not own or have permission to monitor.
 👤 Author
 Sivani Sri.N 
-Btech CYBER Forensics and Information Security 
+Btech Cyber Forensics and Information Security 
 LinkedIn: https://www.linkedin.com/in/sivani-sri-n-b135bb303?utm_source=share_via&utm_content=profile&utm_medium=member_android
